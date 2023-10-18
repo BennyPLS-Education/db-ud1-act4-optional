@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="FastInfoset-1.2.16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/FastInfoset-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/istack-commons-runtime-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.xml.bind-api-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-runtime-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax-ex-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/txw2-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-api-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
